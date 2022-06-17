@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
+body{
     background-color: black;
     color: #1AC5F3;
     width: 100vw;
@@ -12,8 +12,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-p {
+p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 3rem;
+    font-size: 5rem;
     letter-spacing: 8px;
 }
+
